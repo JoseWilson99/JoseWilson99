@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas.<br>Estou em busca de um estágio. 
+- Formado em Análise e Desenvolvimento de Sistemas.
+- <br>Estou em busca de um estágio. 
 
 
 ## 🌐 Socials:
