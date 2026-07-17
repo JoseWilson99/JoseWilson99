@@ -23,6 +23,7 @@ Acredito que a tecnologia vai além do código: ela deve facilitar a vida das pe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/josé-wilson-l-de-a-neto-4b25b7192) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josewilsonaj@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoseWilson99&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
