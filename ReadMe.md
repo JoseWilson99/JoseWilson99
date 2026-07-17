@@ -1,7 +1,24 @@
 # 💫 About Me:
-- Formado em Análise e Desenvolvimento de Sistemas.
-- <br>Estou em busca de um estágio. 
 
+- Graduação em Análise e Desenvolvimento de Sistemas.
+- Pós-graduação em Engenharia de Dados.
+
+## 🚀 Tecnologias
+
+- Java
+- React
+- JavaScript
+- HTML
+- CSS
+- SQL
+- MySQL
+- Python
+- Git & GitHub
+- Power BI
+
+## 🎯 Objetivo
+
+Acredito que a tecnologia vai além do código: ela deve facilitar a vida das pessoas. Procuro unir conhecimento técnico, empatia, trabalho em equipe e aprendizado constante para criar soluções eficientes e colaborar de forma positiva em qualquer ambiente.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/josé-wilson-l-de-a-neto-4b25b7192) 
