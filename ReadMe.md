@@ -3,6 +3,10 @@
 - Graduação em Análise e Desenvolvimento de Sistemas.
 - Pós-graduação em Engenharia de Dados.
 
+# 📫 Contato
+
+![Gmail](https://img.shields.io/badge/josewilsonaj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,13 +21,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
 Acredito que a tecnologia vai além do código: ela deve facilitar a vida das pessoas. Procuro unir conhecimento técnico, empatia, trabalho em equipe e aprendizado constante para criar soluções eficientes e colaborar de forma positiva em qualquer ambiente.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/josé-wilson-l-de-a-neto-4b25b7192) 
-![Gmail](https://img.shields.io/badge/josewilsonaj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoseWilson99&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
